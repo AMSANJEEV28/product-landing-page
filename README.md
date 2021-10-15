@@ -1,8 +1,4 @@
 # product-landing-page
-freeCodeCamp Product Landing Page Project
-
-
-![Freecode camp logo](https://th.bing.com/th/id/OIP.OMSYkGVpuBfU0b07hQ10rwHaCe?pid=ImgDet&rs=1)
 
 
 
@@ -11,7 +7,7 @@ freeCodeCamp Product Landing Page Project
 
 
 
-![bg-img](https://github.com/AMSANJEEV28/product-landing-page/blob/main/bg.jpg)
+![background-image](https://github.com/AMSANJEEV28/product-landing-page/blob/main/bg.jpg)
 
 
 
@@ -20,7 +16,7 @@ freeCodeCamp Product Landing Page Project
 
 
 
-![ss1](https://github.com/AMSANJEEV28/product-landing-page/blob/main/ss1.png)
+![screenshot1](https://github.com/AMSANJEEV28/product-landing-page/blob/main/ss1.png)
 
 
 
@@ -32,6 +28,6 @@ freeCodeCamp Product Landing Page Project
 ![ss4](https://github.com/AMSANJEEV28/product-landing-page/blob/main/ss4.png)
 
 
-**CodePen Link**
+**CodePen Link.**
 
 https://codepen.io/AMSANJEEV/full/dyzGpBM
